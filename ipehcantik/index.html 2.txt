@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="css/index.css">
 
   <!-- Document Title -->
-  <title>From nana</title>
+  <title>From angel</title>
 </head>
 
 <body>
@@ -31,6 +31,8 @@
   </div>
 
   <script src="js/index.js"></script>
+<script>happy birthday zahra></script>
+<script>wish you all the best></script>
 </body>
 
 </html>
